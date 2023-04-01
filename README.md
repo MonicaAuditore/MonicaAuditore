@@ -30,12 +30,10 @@ I build user interfaces for websites and mobile applications.
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/mauditoreportfolio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/MonicaAuditore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/monica-auditore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/MonicaAuditore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/monica-auditore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/MonicaAuditore/vite-boolflix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MonicaAuditore&repo=vite-boolflix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MonicaAuditore/js-campominato-dom" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MonicaAuditore&repo=js-campominato-dom&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/MonicaAuditore/html-css-spotifyweb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MonicaAuditore&repo=html-css-spotifyweb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MonicaAuditore/htmlcss-discord" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MonicaAuditore&repo=htmlcss-discord&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
