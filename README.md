@@ -1,4 +1,4 @@
-# Hi, my name is Monica 😊 ![Farfalle](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/batterfly.gif)
+# Hi, my name is Monica👋🏻 ![Farfalle](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/batterfly.gif)
 
 ## Frontend developer
 
