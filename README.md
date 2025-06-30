@@ -1,4 +1,4 @@
-# Hi, my name is Monica! ![Unicorno](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/unicorn.gif)
+# Hi, my name is Monica 😊 ![Farfalle](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/batterfly.gif)
 
 ## Frontend developer
 
@@ -7,7 +7,7 @@ I build user interfaces for websites and mobile applications.
 - 🌍  I'm based in Italy
 - ✉️  You can contact me at [mauditore@live.it](mailto:mauditore@live.it)
 
-### Skills ![Farfalle](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/batterfly.gif)
+### Skills ![Unicorno](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/unicorn.gif)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
