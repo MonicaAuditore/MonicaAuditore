@@ -1,4 +1,4 @@
-# Hi, my name is Monica
+# Hi, my name is Monica ![Unicorno](https://github.com/MonicaAuditore/MonicaAuditore/raw/main/assets/gif/unicorn.gif)
 
 ## Frontend developer
 
